@@ -18,7 +18,7 @@ tabs:
 
 # the text displayed in the search bar & search results
 search:
-  hint: Cari
+  hint: Pencarian
   cancel: Batal
   no_results: Ups! Tidak ada hasil yang ditemukan.
 
@@ -30,43 +30,43 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: Postingan ini dilisensikan di bawah :LICENSE_NAME oleh penulis.
+    template: Konten ini dilisensikan di bawah :LICENSE_NAME oleh penulis.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
   brief: Sebagian konten dilindungi.
   verbose: >-
-    Kecuali jika dinyatakan, Postingan blog di situs ini dilisensikan
+    Kecuali jika dinyatakan, Konten dalam situs ini dilisensikan
     di bawah Lisensi Creative Commons Attribution 4.0 International (CC BY 4.0) oleh penulis.
 
-meta: Didukung oleh :PLATFORM dengan tema :THEME.
+meta: Menggunakan platform :PLATFORM dengan tema :THEME.
 
 not_found:
-  statment: Maaf, kami gagal menemukan URL itu atau memang mengarah ke sesuatu yang tidak ada.
+  statment: Maaf, kami gagal menemukan alamat URL tersebut atau memang mengarah ke sesuatu yang tidak ada.
 
 notification:
-  update_found: Versi konten baru tersedia.
+  update_found: Versi konten yang lebih baru tersedia.
   update: Perbarui
 
 # ----- Posts related labels -----
 
 post:
-  written_by: Oleh
-  posted: Diterbitkan
-  updated: Diperbarui
-  words: kata
-  pageview_measure: dilihat
+  written_by: Ditulis Oleh
+  posted: Diterbitkan Pada
+  updated: Diperbarui Pada
+  words: Kata
+  pageview_measure: Dilihat
   read_time:
-    unit: menit
-    prompt: baca
+    unit: Menit
+    prompt: Membaca
   relate_posts: Postingan Lainya
   share: Bagikan
   button:
     next: Terbaru
     previous: Terlama
     copy_code:
-      succeed: Disalin!
+      succeed: Berhasil disalin!
     share_link:
       title: Salin tautan
       succeed: Tautan berhasil disalin!
